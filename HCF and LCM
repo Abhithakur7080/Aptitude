@@ -1,0 +1,426 @@
+1. The product of two positive integers is 216 and sum of the numbers is 30. Which of the following can be one number of the two numbers?
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12
+16
+24
+48
+Hurray! Correct Answer
+Solution Description
+The factor of 216 that satisfies the above condition is 12,18.
+So, 12 + 18 = 30
+No other factor satisfied the condition. Hence, we can see only option (a) satisfies the given condition.
+
+
+2. The product of two positive integers is 240 and the difference of the numbers is 8. Which of the following can be the sum of the two numbers?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+0/2
+Options
+This problem has only one correct answer
+12
+16
+24
+32
+Hurray! Correct Answer
+Solution Description
+Let the two numbers be ‘a’ and ‘b’.
+a- b= 8 and a*b= 240
+If a*b= 240, then the possible combinations are (1, 240), (2, 120), (3, 80), (4, 60), (5, 48), (6, 40), (8, 30), (10, 24), (12, 20), (15, 16).
+Since, a - b = 8 if possible only for (12, 20).
+Required sum= 12+ 20= 32. Hence, option (d) is correct.
+
+3. The product of two positive integers is 185. If one integer is a prime number greater than 11. Which of the following can be the other number?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+37
+185
+5
+1
+Hurray! Correct Answer
+Solution Description
+185= 1* 185=5*37
+According to the question one integer is a prime number (greater than 11). It means one factor is 37, other factor must be 5. Hence, option (c) is correct.
+
+4. Which of the following is a prime number?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+147
+91
+101
+None Of These
+Hurray! Correct Answer
+Solution Description
+ 147 is divisible by 3.91 is divisible by 7 and 13. 101 has no factor except 1 and 101 itself. Hence, option (c) is correct.
+ 
+5. Which of the following is a prime number?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+127
+141
+171
+All Of These
+Hurray! Correct Answer
+Solution Description
+11<√127<12, 11<√141<12, 13<√171<14 
+For 127, we just need to check whether 127 is divisible by 3, 7, 9, 11. 127 is not divisible by none of these four numbers. Hence, this is a prime number. 
+But 141 and 171 are not prime numbers.
+Hence, option (a) is correct.
+
+6. Find the HCF of 2, 4, 8, 12.
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+4
+6
+2
+8
+Hurray! Correct Answer
+Solution Description
+Factors of 2 are 1, 2
+Factors of 4 are 1, 2, 4
+Factors of 8 are 1, 2 4, 8
+Factors of 12 are 1, 2, 3, 4, 6, 12
+So, the highest common factor = 2 
+
+7. The HCF of the numbers 27, 81, 72 is__?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+3
+6
+9
+12
+Hurray! Correct Answer
+Solution Description
+ 27=3^3  
+ 81=3^4        	
+ 72= 3^2×2^3
+ 
+Hence, the highest common factor= 3^2=9. Hence, 
+
+8. What is the HCF of the numbers 12 * x^3* y^2 * z, 15* x^2 * y^3 * z^2, 18 * x^3 * y^2 * z^4
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+3*x*y*z
+12*x*y*z
+3*x^2*y^2*z
+12*x^2*y^2*z
+Hurray! Correct Answer
+Solution Description
+12*x^3 *  y^2 * z=2^2 *  3 * x^3  * y^2 * z
+15*x^2 * y^3 * z ^2=3 * 5 * x^2 * y^3 * z^2
+18*x^3 * y^2 * z^4= 2 * 3^2 * x^2 * y^3 * z^4   
+HCF of the three numbers= 3*x^2 *  y^2  * z=3 * x^2  * y^2 * z
+
+9. Which of the following number is the HCF of 56 and 68?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12
+4
+6
+None Of These
+Hurray! Correct Answer
+Solution Description
+Difference of 56 and 68= 12.
+Factors of 12 are 12, 6, 4, 3, 2, 1.
+12 don’t divide 56 and 68.
+6 don’t divide 56 and 68.
+4 divide 56 and 68 both.
+
+10. Which of the following number is the HCF of 136 and 166?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12
+4
+6
+2
+Hurray! Correct Answer
+Solution Description
+ Difference of 136 and 166= 30.
+ Factors of 30 are 30, 15, 10, 6, 5, 3, 2, 1.
+30, 15, 10, 6, 3 don’t divide 136 and 166. 4 don’t divide 166.
+ 2 divide both 136 and 166 both. Hence, 2 is the HCF. Option (d) is correct.
+ 
+11. If the sides of a field are 1410m, 1456m, 1688m, 1712m. Then what is the maximum length of a tape that would be able to measure all the sides exactly?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12m
+4m
+6m
+2m
+Hurray! Correct Answer
+Solution Description
+ Difference of 1410 and 1456 is 46.
+ Factors of 46 are 23, 46 and 2.
+ Only 2 divide all the four numbers. Hence, option (d) is correct.
+ 
+12. Find the side of the largest square slab which can be paved on the floor of a field 544m long and 374 m broad.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+56m
+42m
+38m
+34m
+Hurray! Correct Answer
+Solution Description
+The side of the square slab is the H.C.F. of 544 and 374 i.e. 34.
+Hence, option (d) is correct.
+
+13. A milkman has three kinds of varieties of milk. He has 506 liters, 536 liters and 836 liters of the three varieties. What is the largest size of the bottle in which he can bottle each of the three types of milk completely without mixing the milk.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12
+4
+6
+2
+Hurray! Correct Answer
+Solution Description
+ Required size of the bottle= HCF of (506, 536 and 836)
+ Difference of 506 and 536= 30.
+Factors of 30 are 1, 2, 3, 5 , 6, 10, 15, 30.
+Out of these factors only 2 divide all the three numbers (506, 536 and 836). Hence, option (d) is correct.
+
+14. Find the largest number which when divides 721 and 282, the respective remainders left are 1 and 6?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12
+14
+20
+26
+Hurray! Correct Answer
+Solution Description
+HCF (721-1, 282-6) = HCF of (720, 276)=  12
+ So, the required answer is 12. Hence, option (a) is correct.
+ 
+15. Find the largest number which when divides 576, 876 and 1206, the remainders left are same.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+0/2
+Options
+This problem has only one correct answer
+20
+30
+40
+50
+Hurray! Correct Answer
+Solution Description
+ Take the differences between any two pairs out of the given numbers.
+
+ 1206 – 876 = 330
+
+ 1206 – 576 = 630
+
+ 876- 576= 300.
+
+ The required number is the HCF of these differences.
+ HCF of 300, 330 and 630 = 30
+ 
+16. Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+13
+4
+36
+28
+Hurray! Correct Answer
+Solution Description
+Difference between first number and second number= 91 - 43 = 48
+
+Difference between second number and third number = 183 - 91 = 92
+
+Difference between third number and first number = 183 - 43 = 140 
+
+HCF of 48, 92, 140 = 4
+
+17. Find the LCM of 2, 4, 8, 12.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+24
+16
+12
+48
+Hurray! Correct Answer
+Solution Description
+ 2 = 2
+
+ 4 = 2^2
+
+ 8 = 2^3
+
+12 = 2^2 x 3
+
+ LCM = 2^3 x 3 = 24 
+ 
+18. Find the LCM of 17, 21, 245.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+17 x 3 x 5 x 7^2
+17 x 3 x 5
+17 x 3 x 7^2
+None Of These
+Hurray! Correct Answer
+Solution Description
+ 17=17, 21= 3x 7, 245= 5x 7^2
+
+Required LCM = 17 x 3 x 5 x 7^2
+
+19. Find the LCM of 45, 90, 135.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+2^2 x 3^3 x 5
+2 X 3^3 X 5
+2 x 3 ^3 x 5^2
+None Of These
+Hurray! Correct Answer
+Solution Description
+45=5  x 3^2,
+
+90= 3^2 x 2 x 5
+
+135= 5 x 3^3
+
+Required LCM = 2 X 3^3 X 5= 270. 
+
+20. HCF of two expressions is (x + 1) and LCM is (x^3+ x^2 – x – 1). If one expression is (x^2 - 1), then what is the second expression?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+0/2
+Options
+This problem has only one correct answer
+x + 1
+(x - 1)^2
+(x + 1)^2
+(x - 1)( x + 1)
+Hurray! Correct Answer
+Solution Description
+HCF = (x + 1)
+
+LCM = x^3 + x^2 – x – 1 = (x + 1) (x + 1) (x – 1)
+
+First expression = x^2 – 1 = (x + 1) (x - 1).
+
+ Second expression × first expression = HCF x LCM
+
+Second expression= HCF x LCM/first expression 
+= ((x+1)(x+1)(x+1)(x-1))/((x-1)(x+1))= (x+1)^2
+
+21. The HCF and LCM of two numbers are 21 and 4641 respectively. If one of the numbers lies between 200 and 300, then the two numbers are:
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+273, 357
+273, 361
+273, 359
+273, 363
+Hurray! Correct Answer
+Solution Description
+ HCF * LCM = Product of the numbers = 21 * 4641 =3 * 7 * 3 * 7 * 13 * 17.
+ 
+The numbers can be 3 * 7 * 13 and 3 * 7 *17 ie, 273 and 357.
+
+22. A bell rings every 18 minutes. A second bell rings every 24 minutes. A third bell rings every 32 minutes. If all the three bells ring at the same time at 8 o'clock in the morning, at what other time will they all ring together?
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+12:40 PM
+12:48 PM
+12:56 PM
+13:04 PM
+Hurray! Correct Answer
+Solution Description
+ LCM of 18, 24 and 32 is 288
+ 288 minutes = 4 hours 48 minutes.
+The bells will ring together again at 8 AM+ 4 hours 48 minutes= 12:48 PM.
+
