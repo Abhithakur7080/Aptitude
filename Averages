@@ -34,6 +34,7 @@ Correct answer - 42
 
 3. The average of the following numbers: 1001, 1002, 1003, 1006, 1009
 
+
 You have max 2 attempts to score in this question.
 Attempts left:
 1/2
@@ -51,6 +52,7 @@ Hence, the required average= 1005- 0.8= 1004.2
 
 4. The average of the following numbers: 1911, 1922, 1915, 1916, 1920
 
+
 You have max 2 attempts to score in this question.
 Attempts left:
 1/2
@@ -65,3 +67,220 @@ Solution Description
 lets the average of the numbers is 1915. Net average difference= 9/5= +1.8
 Hence, the required average= 1915+ 1.8= 1916.8
 
+5. Sachin has an average of 90 after ten innings. If he scored 50 runs in the 11th inning then what is the average of Sachin after 11 innings?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+86.36
+85.47
+87.87
+None of these
+Hurray! Correct Answer
+Solution Description
+Average runs scored after 11th innings= (90×10+50)/(10+1)=950/11=86.36. Hence, option (a) is correct.
+
+6. Manish average score in first five tests was 10. If after 6th test he scored 12 marks then what was his average after 6 tests?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+10.36
+10.33
+17.87
+None Of These
+Hurray! Correct Answer
+Solution Description
+Average score of Manish after six tests= (10×5+12)/(6)=62/6=10.33. Hence, option (b) is correct.
+
+7. The average of five distinct prime numbers is 6 if first four of them are one digit prime numbers then value of 5th prime number is:
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+0/2
+Options
+This problem has only one correct answer
+11
+13
+17
+19
+Hurray! Correct Answer
+Solution Description
+ One digit prime numbers are 2, 3, 5, 7. Let the 5th prime numbers is x then according to the question: (2+ 3+ 5+ 7+ x)/5 = 6 
+ 
+8. When a student weighing 46 kgs left a class, the average weight of the remaining 59 students increased by 300g. What is the average weight of the remaining 59 students?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+88
+98
+64
+57
+Hurray! Correct Answer
+Solution Description
+Let the average weight of the 59 students be A.
+Therefore, the total weight of the 59 of them will be 59A.
+
+The questions states that when the weight of this student who left is added, the total weight of the class = 59A + 46
+When this student is also included, the average weight decreases by 0.3 kgs.
+
+( 59A + 46)/ 60 = A – 0.3
+
+=> 59A + 46 = 60A - 18
+
+=> 46 + 18 = 60A - 59A
+=> A = 64 
+
+9. The average weight of 8 men on a rope bridge is increased by 2.5 kg, when one of the men, who weighs 69 kg, is replaced by a new man. Find the weight of the new man.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+79
+89
+84
+69
+Hurray! Correct Answer
+Solution Description
+The total increased average weight = 2.5*8 = 20 Kgs
+
+When 69 kg man is replaced, his average weight will also increase by 2.5 kg which we have already included.
+
+Now, the new weight due to addition of 8th man will be = 69 + 20 = 89 kg
+
+10. The average honey collected by 19 bees of a beehive is 50 grams per day. If the queen bee’s collection is added, the average collection becomes 47.5 grams. What is the queen bee’s collection?
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+4 grams
+0 grams
+6 grams
+None of these
+Hurray! Correct Answer
+Solution Description
+Let queen bee’s collection be q grams;
+((19×50)+q)/20=47.5;
+Solving we get q=0
+
+11. The average score of Rahul after 20 innings is 20 and in the 21st innings Rahul scores 83 runs. In the 22nd innings the minimum number of runs required to increase his average score by 2 than it was before the 22nd innings :
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+66
+68
+67
+69
+Hurray! Correct Answer
+Solution Description
+The average score after 20th innings = 20 
+The average score after 21st innings = 23
+Since [(20 × 20) +83]/21 = 483/21 = 23
+Now requirement of runs = 25 + (21 × 2) = 67
+Or   (25 × 22) – (23 × 21) = 67 
+
+12. Nine persons went to a hotel for taking their meals. Eight of them spent Rs.15 each on their meals and the ninth spent Rs.8 more than the average expenditure of all the nine. What was the total money spent by them.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+130
+131
+132
+144
+Hurray! Correct Answer
+Solution Description
+Let the average expenditure of all the nine be RS.x
+Then, 15 * 8 + (x + 8) = 9x
+Therefore x = 16
+Total money spent = 9x = RS.(9 * 16) = Rs.144
+
+13. There are two sections A and B of a class, consisting of 40 and 48 students’ respectively. If the average weight of section A is 50kg and that of section B is 45kg, find the average weight of the whole class.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+45.25
+46.26
+47.27
+48.28
+Hurray! Correct Answer
+Solution Description
+Total weight of (40+48) Students = (40x50+48x45)kg = 4160kg
+
+Therefore average weight of the whole class = (4160/88) kg
+
+Therefore average weight = 47.27kg
+
+14. In a class twenty five students are standing in a row the average weight of 1st 12 students is 14 kg. that of last twelve is 17 kg. If the average weight of all the 25 students is 18 kg. then find the weight of 13th student.
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+76 kg
+77 kg
+78 kg
+80 kg
+Hurray! Correct Answer
+Solution Description
+Let the weight of 13th student be w kg.
+
+Total weight of first 12 students = 12×14=168kg.
+
+Total weight of last 12 students = 12×17=204 kg.
+
+Total weight of all the students = 168 + w + 204 = w + 372 = 25×18=450
+
+w = 450- 372 = 78 kg.
+
+15. The average weight of 35 students in a school 40 kg. If 5 students of average weight 100 kg. left the school then the new average of remaining students is:
+
+
+You have max 2 attempts to score in this question.
+Attempts left:
+1/2
+Options
+This problem has only one correct answer
+35 kg
+30 kg
+40 kg
+25 kg
+Hurray! Correct Answer
+Solution Description
+Total weight of all the students = 35×40=1400kg.
+
+Total weight of 5 students = 5x100 =500 kg.
+
+Total weight of remaining students = 1400 - 500 = 900kg
+
+average of remaining students = 900/30 = 30kg
